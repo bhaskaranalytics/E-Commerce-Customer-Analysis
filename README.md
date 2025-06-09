@@ -47,7 +47,7 @@ This dashboard provides a comprehensive analysis of sales and net profit.
   - Order Date Slicer: Filters charts and cards by order date.
   - Product Line Slicer: Filters charts and cards by product line.
 - **Toggle Buttons**: Switch between sales and net profit views in the charts.
-https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Reports/Ecommerce%20Dashboard%201.png
+(https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Reports/Ecommerce%20Dashboard%201.png)
 
 ### Dashboard 2
 This dashboard focuses on a more detailed analysis of net profit.
@@ -55,6 +55,8 @@ This dashboard focuses on a more detailed analysis of net profit.
 - **Decomposition Tree**: Analyzes net profit explained by customer country, product line, and customer name.
 - **Table**: Shows a sales overview with columns such as Order Year, Order Month, Sales Value, Sales Value MoM%, and Sales Value YTD.
 - **Toggle Buttons**: Switch between the two dashboards.
+
+## Dashboard2 (https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Reports/Ecommerce%20Dashboard2.png)
 
 ## How to Run the Project
 1. **Database Setup**: Ensure you have access to the e-commerce database and the necessary permissions to run SQL queries.
