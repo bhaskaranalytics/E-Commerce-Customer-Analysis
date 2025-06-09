@@ -56,7 +56,7 @@ This dashboard focuses on a more detailed analysis of net profit.
 - **Table**: Shows a sales overview with columns such as Order Year, Order Month, Sales Value, Sales Value MoM%, and Sales Value YTD.
 - **Toggle Buttons**: Switch between the two dashboards.
 
-[](https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Reports/Ecommerce%20Dashboard2.png)
+![ detail Analysis ](https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Reports/Ecommerce%20Dashboard2.png)
 
 ## How to Run the Project
 1. **Database Setup**: Ensure you have access to the e-commerce database and the necessary permissions to run SQL queries.
