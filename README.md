@@ -1,9 +1,10 @@
-# E-Commerce-Customer-Analysis
 
 # E-Commerce Data Analytics Project
 
 ## Project Overview
 This project involves analyzing e-commerce data using SQL, Excel, and Power BI to derive insights and visualize key metrics. The main objectives are to identify trends, track sales performance, and provide a comprehensive overview of business operations.
+## Dashboard 
+ (https://github.com/bhaskaranalytics/E-Commerce-Customer-Analysis/blob/main/Power%20BI/E%20Commerce%20Dashboard.pbix)
 
 ## Tools and Technologies
 - **SQL**: For querying the database to extract and manipulate data.
